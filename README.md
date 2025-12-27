@@ -15,8 +15,6 @@ faces from a live camera feed, automatically tracks entry and exit events, store
 attendance data in a database, and displays live status through a dashboard.
 </p>
 
-<hr>
-
 <p>
 This project demonstrates practical usage of
 <b>computer vision, multithreading, database handling, and GUI development</b>.
