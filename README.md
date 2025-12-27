@@ -15,6 +15,23 @@ faces from a live camera feed, automatically tracks entry and exit events, store
 attendance data in a database, and displays live status through a dashboard.
 </p>
 
+<hr>
+
+<h2>🎥 Demo Video</h2>
+<p>
+A short demonstration of the FaceTrack system showing
+real-time face recognition, entry-exit tracking, and the live dashboard.
+</p>
+
+<p>
+<a href="(https://drive.google.com/file/d/1T4pjdmibuRkOpw-z2JiQy4dbWUG2J5lQ/view?usp=drive_link)" target="_blank">
+▶ Click here to watch the demo video
+</a>
+</p>
+<p>
+<b>Note:</b> Video is hosted on Google Drive for faster playback.
+</p>
+
 <p>
 This project demonstrates practical usage of
 <b>computer vision, multithreading, database handling, and GUI development</b>.
